@@ -1,0 +1,42 @@
+c:\users\ns\documents\visual studio 2013\Projects\UI\UI\bin\Debug\UI.exe.config
+c:\users\ns\documents\visual studio 2013\Projects\UI\UI\bin\Debug\UI.exe
+c:\users\ns\documents\visual studio 2013\Projects\UI\UI\bin\Debug\UI.pdb
+c:\users\ns\documents\visual studio 2013\Projects\UI\UI\obj\Debug\UI.Form1.resources
+c:\users\ns\documents\visual studio 2013\Projects\UI\UI\obj\Debug\UI.Properties.Resources.resources
+c:\users\ns\documents\visual studio 2013\Projects\UI\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+c:\users\ns\documents\visual studio 2013\Projects\UI\UI\obj\Debug\UI.exe
+c:\users\ns\documents\visual studio 2013\Projects\UI\UI\obj\Debug\UI.pdb
+c:\users\ns\documents\visual studio 2013\Projects\UI\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\NS\Documents\Visual Studio 2013\Projects\UI\UI\bin\Debug\BO.dll
+C:\Users\NS\Documents\Visual Studio 2013\Projects\UI\UI\bin\Debug\ENTITY.dll
+C:\Users\NS\Documents\Visual Studio 2013\Projects\UI\UI\bin\Debug\BO.pdb
+C:\Users\NS\Documents\Visual Studio 2013\Projects\UI\UI\bin\Debug\ENTITY.pdb
+C:\Users\NS\Documents\Visual Studio 2013\Projects\UI\UI\obj\Debug\UI.GetInfo.resources
+C:\Users\NS\Desktop\UI\UI\bin\Debug\UI.exe.config
+C:\Users\NS\Desktop\UI\UI\obj\Debug\UI.exe
+C:\Users\NS\Desktop\UI\UI\obj\Debug\UI.pdb
+C:\Users\NS\Desktop\UI\UI\bin\Debug\UI.exe
+C:\Users\NS\Desktop\UI\UI\bin\Debug\UI.pdb
+C:\Users\NS\Desktop\UI\UI\bin\Debug\BO.dll
+C:\Users\NS\Desktop\UI\UI\bin\Debug\ENTITY.dll
+C:\Users\NS\Desktop\UI\UI\bin\Debug\BO.pdb
+C:\Users\NS\Desktop\UI\UI\bin\Debug\ENTITY.pdb
+C:\Users\NS\Desktop\UI\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\NS\Desktop\UI\UI\obj\Debug\UI.Form1.resources
+C:\Users\NS\Desktop\UI\UI\obj\Debug\UI.GetInfo.resources
+C:\Users\NS\Desktop\UI\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\NS\Desktop\UI\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+E:\UI\UI\bin\Debug\UI.exe.config
+E:\UI\UI\obj\Debug\UI.exe
+E:\UI\UI\obj\Debug\UI.pdb
+E:\UI\UI\bin\Debug\UI.exe
+E:\UI\UI\bin\Debug\UI.pdb
+E:\UI\UI\bin\Debug\BO.dll
+E:\UI\UI\bin\Debug\ENTITY.dll
+E:\UI\UI\bin\Debug\BO.pdb
+E:\UI\UI\bin\Debug\ENTITY.pdb
+E:\UI\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+E:\UI\UI\obj\Debug\UI.Form1.resources
+E:\UI\UI\obj\Debug\UI.GetInfo.resources
+E:\UI\UI\obj\Debug\UI.Properties.Resources.resources
+E:\UI\UI\obj\Debug\UI.csproj.GenerateResource.Cache
